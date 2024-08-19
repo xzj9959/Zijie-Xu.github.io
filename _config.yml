@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio1.png"
+  avatar           : "bio2.png"
   name             : "Zijie Xu"
-  pronouns         : he/him # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Stonybrook University"
+  pronouns         : He/Him # example: "she/her"  
+  bio              : "I'm crazy about the porous media"
+  location         : "100 Nicolls Road, Stony Brook, NY 11794"
+  employer         : "Stonybrook University (SUNY)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zijie.xu@stonybrook.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
