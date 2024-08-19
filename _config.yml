@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zijie Xu/Personal Website"
+title                    : "Zijie Xu / Personal Website"
 title_separator          : "-"
 name                     : &name "Zijie Xu"
 description              : &description "Second year PhD student at Stonybrook University"
