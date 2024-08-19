@@ -12,7 +12,7 @@ title                    : "Zijie Xu / Personal Website"
 title_separator          : "-"
 name                     : &name "Zijie Xu"
 description              : &description "The second year PhD student at Stonybrook University"
-url                      : https://Zijie-Xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xzj9959.github.io/Zijie-Xu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
