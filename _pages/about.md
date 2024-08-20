@@ -10,4 +10,4 @@ I'm a second year PhD student from [Civil Engineering Department](https://www.st
 <br>You can find my CV here: [Zijie's Curriculum Vitae](../_pages/Zijie%20Xu's%20CV.pdf).
 Feel free to reach out via [Emaill](mailto:zijie.xu@stonybrook.edu), or check out my [Linkedln](https://www.linkedin.com/in/zijie-xu-045b70289/).
 
-![My Photo]({{ site.baseurl }}.../_pages/Picture1.jpg)
+![My Photo](.../_pages/Picture1.jpg)
