@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome to Zijie's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
