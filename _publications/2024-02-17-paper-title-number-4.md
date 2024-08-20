@@ -6,6 +6,5 @@ permalink: "https://onepetro.org/ARMAUSRMS/proceedings/ARMA24/ARMA24/ARMA-2024-0
 date: 2024-06-23
 venue: '58th U.S. Rock Mechanics/Geomechanics Symposium'
 paperurl: "https://onepetro.org/ARMAUSRMS/proceedings/ARMA24/ARMA24/ARMA-2024-0068/548999"
-
 ---
 
