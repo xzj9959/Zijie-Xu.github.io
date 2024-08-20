@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio2.png"
+  avatar           : "bio1.png"
   name             : "Zijie (Jason) Xu"
   pronouns         : He/Him # example: "she/her"  
   bio              : "The second year PhD student<br>"I'm crazy about the porous media""
