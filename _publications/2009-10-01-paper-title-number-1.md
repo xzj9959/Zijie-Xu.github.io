@@ -6,5 +6,4 @@ permalink: https://www.sciencedirect.com/science/article/pii/S0360544221000736
 date: 2021-4-15
 venue: 'Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0360544221000736'
-
 ---
