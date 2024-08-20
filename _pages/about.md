@@ -7,8 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I'm a Civil Engineering PhD student at Stony Brook University with an M.S. degree from Chongqing University. My current research centers on 3D wormhole formation in gypsum via core flood test. This work deepens my understanding of porous media behavior and is a critical part of my academic journey.
