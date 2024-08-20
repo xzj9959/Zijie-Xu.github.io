@@ -2,7 +2,7 @@
 title: "A Cross-Scale Characterization of Porous Rocks Altered by Flow and Dissolution"
 collection: publications
 category: conferences
-permalink: "/publication/A-cross-scale-characterization-of-porous-rocks-altered-by-flow-and-dissolution"
+permalink: "https://onepetro.org/ARMAUSRMS/proceedings/ARMA24/ARMA24/ARMA-2024-0068/548999"
 date: 2024-06-23
 venue: '58th U.S. Rock Mechanics/Geomechanics Symposium'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
