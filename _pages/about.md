@@ -13,4 +13,4 @@ I'm a second year PhD student from [Civil Engineering Department](https://www.st
 Feel free to reach out via [Emaill](mailto:zijie.xu@stonybrook.edu), or check out my [Linkedln](https://www.linkedin.com/in/zijie-xu-045b70289/).
 
 ![1](../images/Picture1.png)
----
+
