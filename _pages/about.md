@@ -18,3 +18,15 @@ Education:
 <br>MEng in Mining Engineering, Chongqing University, China 09/2019 - 07/2022
 <br>PhD in Civil Engineering, Stonybrook University, USA 09/2023 - Present
 ---
+<br>Research Experience
+<br>Research Assistant (09/2023 - Present)
+<br>Department of Civil Engineering, Stony Brook University, Stony Brook, NY, USA
+<br>Supervisor: Wei Li
+<br>Project: A cross-scale characterization of porous rocks altered by flow and dissolution.
+<br>Graduated Student & Research Assistant (09/2019 - 07/2023)
+<br>Department of Resources and Safety Engineering, Chongqing University, Chongqing, China
+<br>Supervisor: Yiyu Lu
+<br>Dissertation: “The mode I fracture toughness alternation and crack propagation behavior evolution due to
+<br>long-term Sc-CO2 saturation”
+---
+
