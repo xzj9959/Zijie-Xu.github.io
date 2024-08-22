@@ -12,21 +12,26 @@ I'm a second year PhD student from [Civil Engineering Department](https://www.st
 <br>You can find my CV here: [Zijie's Curriculum Vitae](../_pages/Zijie%20Xu's%20CV.pdf).
 Feel free to reach out via [Emaill](mailto:zijie.xu@stonybrook.edu), or check out my [Linkedln](https://www.linkedin.com/in/zijie-xu-045b70289/).
 
----
-Education:
+<div style="text-align: center;">
+  <h1>Education</h1>
+</div>
+
 <br>BEng in Mining Engineering, Fuzhou University, China 09/2015 - 07/2019
 <br>MEng in Mining Engineering, Chongqing University, China 09/2019 - 07/2022
 <br>PhD in Civil Engineering, Stonybrook University, USA 09/2023 - Present
----
-<br>Research Experience
+
+<div style="text-align: center;">
+  <h1>Research Experience</h1>
+</div>
+
 <br>Research Assistant (09/2023 - Present)
 <br>Department of Civil Engineering, Stony Brook University, Stony Brook, NY, USA
 <br>Supervisor: Wei Li
 <br>Project: A cross-scale characterization of porous rocks altered by flow and dissolution.
+
 <br>Graduated Student & Research Assistant (09/2019 - 07/2023)
 <br>Department of Resources and Safety Engineering, Chongqing University, Chongqing, China
 <br>Supervisor: Yiyu Lu
-<br>Dissertation: “The mode I fracture toughness alternation and crack propagation behavior evolution due to
-<br>long-term Sc-CO2 saturation”
----
+<br>Dissertation: “The mode I fracture toughness alternation and crack propagation behavior evolution due to long-term Sc-CO2 saturation”
+
 
